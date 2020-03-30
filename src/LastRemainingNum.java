@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class LCOF {
+public class LastRemainingNum {
     public static void main(String[] args) {
         int[][] inputs = {{5, 3}, {10, 17}, {1, 1}};
         int[] outputs = {3, 2, 0};
